@@ -1,6 +1,6 @@
 # Cook-Video_Analysis
 
-Using AI of CV, Analysis Cook-Video like Paik's Cuisine, 백종원의 요리 비책
+Using AI of CV, Analysis Cook-Video like Paik's Cuisine, 백종원의 요리 비책 | [Paper](https://drive.google.com/file/d/1oi790wvUtx6pEZjy7poDGDP3v6vLl_SN/view?usp=share_link)
 
 **[Jaechan Jo](mailto:jjc123a@naver.com)**
 
